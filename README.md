@@ -1,4 +1,4 @@
-###  Hello, I'm Wejdan Al-talelb 👋 
+###  Hello, I'm Wejdan Al-taleb 👋 
 
 I'm a Front-End Web Developer 
 who is a passionate developer about making the web accessible to everyone.
