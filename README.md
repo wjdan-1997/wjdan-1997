@@ -1,4 +1,4 @@
-###  Hello, I'm Wejdan Al-taleb 👋 
+###  Hello, 👋 
 
 I'm a Front-End Web Developer 
 who is a passionate developer about making the web accessible to everyone.
@@ -23,3 +23,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 -  Fun fact: ...
 -->
+
