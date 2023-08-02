@@ -5,9 +5,8 @@ who is a passionate developer about making the web accessible to everyone.
 
 and dedicated to creating an attractive websites design.
 
-Enjoy Coding, and Love sharing what I'm doing.🌱 ✨
-- I have 1 live app⚡:
-- Resume : https://wjdan-1997.github.io/Resume_Wejdan/
+ 
+ 
 
 <!--
 **wjdan-1997/wjdan-1997** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
